@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "chat-bot/MessageParser.jsx", "chat-bot/config.js", "chat-bot/ActionProvider.jsx"],
   "exclude": ["node_modules"]
 }
