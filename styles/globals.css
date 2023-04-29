@@ -2,3 +2,55 @@
 @tailwind components;
 @tailwind utilities;
 
+.react-chatbot-kit-chat-container {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-header {
+    background-color: #111;
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-input {
+    background-color: #222;
+    color: #fff;
+    border-color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-message-container {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-bot-message-container {
+
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-bot-message {
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-bot-message-arrow:before {
+  }
+  
+  .react-chatbot-kit-chat-bot-avatar-icon {
+    background-color: #f00;
+  }
+  
+  .react-chatbot-kit-chat-btn-send {
+    background-color: #f00;
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-chat-btn-send:hover {
+    background-color: #0ff;
+    color: #fff;
+  }
+  
+  .react-chatbot-kit-error {
+    background-color: #f00;
+    color: #fff;
+  }
+  
